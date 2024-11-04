@@ -1,8 +1,0 @@
-tkinter
-tldextract
-re
-datetime
-csv
-urllib.parse
-requests==2.31.0
-beautifulsoup4==4.12.2
