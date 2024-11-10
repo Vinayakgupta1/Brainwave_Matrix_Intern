@@ -1,0 +1,4 @@
+tkinter
+ttk
+re
+Pillow==9.3.0
